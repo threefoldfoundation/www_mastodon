@@ -23,7 +23,7 @@ weight: 1
 
 <br>
 
-Deploy and fully control your own Mastodon server on the <br />world’s largest truly decentralized network.
+Deploy and fully control your own Mastodon server on the <br />world’s largest decentralized network.
 
 <br>
 
@@ -39,13 +39,13 @@ Deploy and fully control your own Mastodon server on the <br />world’s largest
 
 ## **YOUR OWN <br /> DECENTRALIZED SERVER**
 
-No need to rely on someone else’s server<br>
-when you can own and manage <br>a fully 
+No need to rely on a third party’s server,<br>
+when you can own and manage <br>your own 
 private and secure Mastodon server<br>
 hosted by ThreeFold.
 <br />
 <br />
-Own or co-own a server now!
+Own or co-own a Mastodon server now!
 
 <button>[GET SERVER](/)</button>
 
@@ -79,7 +79,7 @@ Our fully decentralized network offers an unparalleled level of security, privac
 
 {% row(style="center" margin="narrow" padding="top") %}
 
-## **SAFER LOGGING IN <BR> OPTIONS**
+## **SAFER LOGIN <BR> OPTIONS**
 {% end %}
 
 <!-- section 4  -->
@@ -88,17 +88,18 @@ Our fully decentralized network offers an unparalleled level of security, privac
 
 ![EMAIL ONLY](RGAsset10.png#medium)
 
-### EMAIL<br>ONLY
+### EMAIL<br>LOGIN
 
-The current option of signing in through a registered email and password is available to all users.
+Easily log into a Mastodon server via 'registered email address and password' method. 
+Available for all users.
 
 |||
 
 ![TFCONNECT](RGAsset11.png#medium)
 
-### **TF CONNECT<br>AUTHENTICATOR**
+### **TF CONNECT APP<br>AUTHENTICATOR**
 
-A safer option of using the decentralized TF Connect app to safely and privately log in is highly recommended. 
+An extra, optional layer of security by adding the decentralized TF Connect App login method to your Mastodon server. 
 
 |||
 
@@ -149,12 +150,11 @@ Stay up to date with ThreeFold's latest news by following ThreeFold’s Official
 
 {% row(style="center" margin="narrow" padding="top") %}
 
-## **YOUR OWN <br /> DECENTRALIZED SERVER**
+## **GET YOUR FREE<br />MASTODON SERVER**
 
-No need to rely on someone else’s server<br>
-when you can own and manage <br>a fully 
-private and secure Mastodon server 
-hosted by ThreeFold.
+The ﬁrst buyers of ThreeFold’s <br>
+Mastodon servers will receive <br>
+full support in hosting and offering storage.
 <br>
 Own or co-own a server now!
 
