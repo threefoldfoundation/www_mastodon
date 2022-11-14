@@ -7,49 +7,25 @@ draft: false
 weight: 2
 ---
 
-<!-- section 1 (co-found) -->
+<!-- section 1 HEADER -->
 
 {% row(style="center" margin="narrow" padding="top") %}
 
-## BECOME A CO-FOUNDER IN OURWORLD NOMADS {#text-4xl}
-
-Unique co-ownership structure of a diverse real-estate portfolio
-
-![Image](img/dao2.png)
-
-{% end %}
-
-
-{% row(style="center" margin="narrow" padding="none") %}
+![SERVER](IMG/GETSERVER.png#large)
 
 <br>
 
-<br>
-
-![Icons](img/icons.png)  
+# YOUR OWN <BR> DECENTRALIZED SERVER
 
 <br>
 
+No need to rely on someone else’s server
+when you can own and manage
+a fully private and secure Mastodon server hosted by ThreeFold.<br>
+Own or co-own a server now!
+
+<button>[GET SERVER](/)</button>
+
 <br>
-
-![Nomad](img/dig_nomad.png)  
-
-{% end %}
-
-
-<!-- section 3 (advantages) -->
-{% row(style="lean-left" margin="narrow" padding="") %}
-
-To power OurWorld Digital Nomad DAO, we will create a Digital Nomad Token (DNT) which will act as a proof of co-ownership – providing token holders the following benefits:
-
-- A seat in the OurWorld Digital Nomad governance system, overseeing the further developments of the community and its ecosystem
-
-- Yield on future rental of properties and related infrastructure (energy, food, internet generation)
-
-- Preferential access to homes, events and retreats in all locations
-
-- Priority access to organic food reserves and internet capacity
-
-- Ability to reserve premises/locations for private events
 
 {% end %}
