@@ -5,7 +5,7 @@
 www.mastodon.threefold.io
 
 
-A website created using Zola, a static site generator.
+A website created using Zola, a static site generator. <br>
 Last edited 2022.11.14 by @sasha-astiadi
 
 - The contents of the pages reside in the markdown files in /content (written in CommmonMark)
