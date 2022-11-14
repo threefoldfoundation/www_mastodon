@@ -90,8 +90,7 @@ Our fully decentralized network offers an unparalleled level of security, privac
 
 ### EMAIL<br>LOGIN
 
-Easily log into a Mastodon server via 'registered email address and password' method. 
-Available for all users.
+Easy and conventional Mastodon server login via 'registered email address and password' method is available for all users.
 
 |||
 
@@ -107,7 +106,7 @@ An option for an extra layer of security by adding the decentralized TF Connect 
 
 ### **USER<br>VERIFICATION**
 
-Premium users can have the ultimate level of security by quickly completing a quick KYC procedure.
+Premium users can add the ultimate level of security with the option of adding KYC procedure for their Mastodon audience.
 
 {% end %}
 
