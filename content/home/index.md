@@ -99,13 +99,13 @@ Available for all users.
 
 ### **TF CONNECT APP<br>AUTHENTICATOR**
 
-An extra, optional layer of security by adding the decentralized TF Connect App login method to your Mastodon server. 
+An option for an extra layer of security by adding the decentralized TF Connect App login method to your Mastodon server is available. 
 
 |||
 
 ![EXPERIENCE](RGAsset12.png#medium)
 
-### **VERIFIED<br>USERS**
+### **USER<br>VERIFICATION**
 
 Premium users can have the ultimate level of security by quickly completing a quick KYC procedure.
 
