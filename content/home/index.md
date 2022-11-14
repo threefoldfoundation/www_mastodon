@@ -9,145 +9,43 @@ weight: 1
 
 <!-- section 1 (header) -->
 
-{% row(margin="header" bgPath="home_header.jpg" bgStyle="full") %}
+{% row(style="center" margin="narrow" padding="top") %}
 
-# WORK, <br> LIVE & PLAY
+<br />
+<br />
 
-Our world offers Digital Nomads <br /> truly amazing experiences in some <br /> of the world’s best locations.
+![mastodonserver](mastodonserver.png)
 
-<button>[KNOW MORE](/)</button>
+<br />
 
-{% end %}
+# TRULY DECENTRALIZED <br>MASTODON SERVERS
+
+Deploy and fully control your own Mastodon server on the <br />world’s largest truly decentralized network.
+
+<button>[GET STARTED](/)</button>
 
 <br>
 <br>
 
-<!-- section 2  -->
-
-{% row(style="center" margin="narrow" padding="bottom") %}
-
-![REGENERATION](RGAsset10.png#medium)
-
-### **REGENERATION**
-
-We offer endless services to heal the body, mind and soul
-
-|||
-
-![CONNECTIONS](RGAsset11.png#medium)
-
-### **CONNECTIONS**
-
-Our locations are designed to provide intimacy and bring people together
-
-|||
-
-![EXPERIENCE](RGAsset12.png#medium)
-
-### **EXPERIENCE**
-
-An enviroment that meets people’s personal and professional needs
-
 {% end %}
 
-<!-- section 3 -->
+<!-- section 2 -->
 
-{% row(style="center" margin="narrow" padding="none") %}
+{% row(style="center" margin="narrow" padding="top") %}
 
-![Image](location.jpg)
+## YOUR OWN <br /> DECENTRALIZED SERVER
 
-|||
+No need to rely on someone else’s server<br>
+when you can own and manage <br>a fully 
+private and secure Mastodon server 
+hosted by ThreeFold.
+<br>
+Own or co-own a server now!
 
-## HAND-PICKED <br /> LOCATIONS
+<button>[GET SERVER](/)</button>
 
-Carefully chosen locations that offer an array of services and activities ready for all digital nomads
-
-<button>[OUR LOCATIONS](/)</button>
-
-{% end %}
-
-<!-- section 4 -->
-
-{% row(style="" margin="narrow" padding="top") %}
-
-![Image](RGAsset14.png#sm#mx-auto)
-
-|||
-
-### **CONSCIOUS LIVING**
-
-Live in sustainable and planet-conscious structures built to support the planet
-
-|||
-
-![Image](RGAsset15.png#sm#mx-auto)
-
-|||
-
-### **SOVEREIGN INTERNET**
-
-Take advantage of a high-speed, sovereign and decentralized internet connection!
-
-{% end %}
-
-<!-- section 4-2-->
-
-{% row(style="" margin="narrow" padding="none") %}
-
-![Image](RGAsset16.png#sm#mx-auto)
-
-|||
-
-### **SUPPORT LOCALS**
-
-Tackle ESG concerns by working with local communities to empower them
-
-|||
-
-![Image](RGAsset17.png#sm#mx-auto)
-
-|||
-
-### **COMMUNITY BUILDING**
-
-We created an environment which allows everyone to work together easily and effectively
-
-{% end %}
-
-<!-- section 4-3-->
-
-{% row(style="" margin="narrow" padding="bottom") %}
-
-![Image](RGAsset18.png#sm#mx-auto)
-
-|||
-
-### **CO-WORKING SPACES**
-
-Enjoy the benefits of community-building sessions and tools built specifically for you!
-
-|||
-
-![Image](RGAsset19.png#sm#mx-auto)
-
-|||
-
-### **BUILT FOR NOMADS**
-
-Enjoy all the cultural, natural, sports and networking evnts of the locations!
-
-{% end %}
-
-<!-- section 5 -->
-
-{% row(style="center" margin="narrow" padding="none") %}
-
-## REGENERATE <br /> YOURSELF
-
-Regenerative farming is part of the OurWorld experience 
-
-All residents and staff members have direct access to local organic produce that helps us heal and
-empowers the local community!
+<br>
+<br>
 
 |||
 
@@ -155,20 +53,116 @@ empowers the local community!
 
 {% end %}
 
+<!-- section 3 -->
+
+{% row(style="center" margin="narrow" padding="top") %}
+
+![Image](RGAsset111.png)
+
+|||
+
+## POWERED BY THREEFOLD’S <br /> P2P INFRASTRUCTURE
+
+Our fully decentralized network offers an unparalleled level of security, privacy and scalability to all Mastodon servers.
+
+<button>[KNOW MORE](/)</button>
+
+<br>
+<br>
+
+{% end %}
+
+<!-- section 3 (header) -->
+
+{% row(style="center" margin="narrow" padding="top") %}
+
+# SAFER LOGGING IN <BR> OPTIONS
+{% end %}
+
+<!-- section 4  -->
+
+{% row(style="center" margin="narrow" padding="bottom") %}
+
+![EMAIL ONLY](RGAsset10.png#medium)
+
+### EMAIL<br>ONLY
+
+The current option of signing in through a registered email and password is available to all users.
+
+|||
+
+![TFCONNECT](RGAsset11.png#medium)
+
+### TF CONNECT<br>AUTHENTICATOR
+
+A safer option of using the decentralized TF Connect app to safely and privately log in is highly recommended. 
+
+|||
+
+![EXPERIENCE](RGAsset12.png#medium)
+
+### **VERIFIED<br>USERS**
+
+Premium users can have the ultimate level of security by quickly completing a quick KYC procedure.
+
+{% end %}
+
+<!-- section 5 -->
+
+{% row(style="center" margin="narrow" padding="top") %}
+
+![rewards](reward.png)
+
+# EARN <br>REWARDS
+
+Servers allow you to offer decentralized storage to other Mastodon users. <br />Get your server and start earning ThreeFold Tokens!
+
+<button>[KNOW MORE](/)</button>
+
+<br>
+<br>
+
+{% end %}
+
 <!-- section 6 -->
 
 {% row(style="center" margin="narrow" padding="top") %}
 
-## START YOUR OURWORLD <br> EXPERIENCE NOW!
+![Image](FEED.png)
 
-Begin your nomadic journey with us.
+|||
 
-<button>[OUR LOCATIONS](/)</button>
+## THREEFOLD'S <br /> FEED
+
+Stay up to date with ThreeFold's latest news by following ThreeFold’s Official Mastodon channel.
+
+<button>[VIEW FEED](/)</button>
+
+<br>
+<br>
 
 {% end %}
 
-{% row(margin="header" bgPath="journey.jpg" bgStyle="full") %}
+<!-- section 7 -->
 
-    <div class="img"></div>
+{% row(style="center" margin="narrow" padding="top") %}
+
+## YOUR OWN <br /> DECENTRALIZED SERVER
+
+No need to rely on someone else’s server<br>
+when you can own and manage <br>a fully 
+private and secure Mastodon server 
+hosted by ThreeFold.
+<br>
+Own or co-own a server now!
+
+<button>[GET SERVER](/)</button>
+
+<br>
+<br>
+
+|||
+
+![Image](server.png)
 
 {% end %}

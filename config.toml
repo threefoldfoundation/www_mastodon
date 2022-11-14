@@ -1,9 +1,9 @@
 # The URL the site will be built for
-base_url = "https://nomads.ourworld.tf/"
+base_url = ""
 # Change this to your own URL! Please note this variable **must** be uncommented.
 
-title = "Ournomads"
-description="Our global digital backbone"
+title = "MASTODON"
+description="DECENTRALIZED MASTODON SERVER"
 
 # When set to "true", a feed is automatically generated.
 # generate_feed = true
