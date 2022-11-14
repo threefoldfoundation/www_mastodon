@@ -1,11 +1,11 @@
 ---
-title: "OW Nomads"
+title: "TF Mastodon"
 description: ""
-date: 2018-09-14
-updated: 2021-02-20
+date: 2022-11-14
+updated: 2021-11-14
 draft: false
 sort_by: weight
 weight: 1
 extra:
-    logo_path: images/nomads_logo.png
+    logo_path: images/threefold_logo.png
 ---
