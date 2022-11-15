@@ -27,3 +27,4 @@ public
 static/css
 tailwindcss
 .github
+config.toml
