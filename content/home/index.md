@@ -151,7 +151,7 @@ Stay up to date with ThreeFold's latest news by following ThreeFold’s Official
 
 ## **GET YOUR FREE<br />MASTODON SERVER**
 
-The ﬁrst s to reserve ThreeFold’s <br>
+The ﬁrst to reserve ThreeFold’s <br>
 Mastodon servers will receive <br>
 full support in hosting and offering storage.
 <br>
