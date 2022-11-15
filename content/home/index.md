@@ -130,7 +130,7 @@ Servers allow you to offer decentralized storage to other Mastodon users. <br />
 
 {% row(style="center" margin="narrow" padding="top") %}
 
-![Image](FEED.png)
+![Image](feed.png)
 
 |||
 
