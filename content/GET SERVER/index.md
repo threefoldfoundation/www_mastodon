@@ -11,7 +11,7 @@ weight: 2
 
 {% row(style="center" margin="narrow" padding="top") %}
 
-![SERVER](IMG/GETSERVER.png#large)
+![SERVER](IMG/GETSERVER.png)
 
 <br>
 
