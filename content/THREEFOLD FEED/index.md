@@ -11,7 +11,7 @@ weight: 1
 
 {% row(style="center" margin="narrow" padding="top") %}
 
-![feed](IMG/feed.png)
+![feed](IMG/feed.png#large)
 
 <br>
 
