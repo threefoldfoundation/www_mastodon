@@ -7,25 +7,72 @@ draft: false
 weight: 2
 ---
 
-<!-- section 1 HEADER -->
+<!-- section 1 -->
+
+{% row(style="left" margin="narrow" padding="top") %}
+
+## GET YOUR<br /> MASTODON SERVER
+
+**Mastodon** is an open-source self-hosted  <br />
+social networking platform <br />
+run by a network of large number of  <br />
+independently run nodes, known as instances. <br />
+ <br />
+ThreeFold has made it possible for everyone to run their own Mastodon Instance, simply and effectively.
+Own or co-own a Mastodon server now!
+
+<button>[GET SERVER](https://getmastodon.threefold.io/)</button>
+
+<br>
+<br>
+
+|||
+
+![Image](./img/GETserver.png)
+
+<br>
+<br>
+
+{% end %}
+
+<!-- section 2 (header) -->
 
 {% row(style="center" margin="narrow" padding="top") %}
 
-![SERVER](img/getserver.png)
+## EASY <BR> DEPLOYMENT
+{% end %}
 
-<br>
+<!-- section 3 -->
 
-# YOUR OWN <BR> DECENTRALIZED SERVER
+{% row(style="center" margin="narrow" padding="top") %}
+   
+![create](./img/new.png#small)
 
-<br>
+### ADD<br>CREDENTIALS
 
-No need to rely on someone else’s server
-when you can own and manage
-a fully private and secure Mastodon server hosted by ThreeFold.<br>
-Own or co-own a server now!
+EasIly login to, or create a new Mastodon deployment account
 
-<button>[GET SERVER](/)</button>
+|||
 
-<br>
+![add](./img/topup.png#small)
+
+### TOP UP<br>WALLET
+
+Top up your deployment wallet with TFT to keep your Mastodon alive 
+
+|||
+
+![deploy](./img/deploy.png#small)
+
+### DEPLOY<br>INSTANCE
+
+Configure and deploy your own Mastodon!
+
+{% end %}
+
+<!-- section 4 -->
+
+{% row(style="center" margin="narrow" padding="bottom") %}
+<button>[GET SERVER](https://getmastodon.threefold.io/)</button>
 
 {% end %}

@@ -9,20 +9,26 @@ weight: 1
 
 <!-- section 1 HEADER -->
 
-{% row(style="center" margin="narrow" padding="top") %}
+{% row(style="center" margin="top" padding="top") %}
 
-![feed](img/feed.png)
+  
+|||
 
-<br>
+![feed](./img/feed.png#medium)
 
-# THREEFOLD'S <br> FEED
+|||
+  
+{% end %}
+
+{% row(style="center" margin="narrow" padding="NONE") %}
+## THREEFOLD'S <br> FEED
 
 <br>
 
 Stay up to date with ThreeFold's latest news by following<br>
 ThreeFold’s Official Mastodon channel.
 
-<button>[KNOW MORE](/)</button>
+<button>[COMING SOON](/)</button>
 
 <br>
 
