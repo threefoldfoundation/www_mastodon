@@ -105,7 +105,7 @@ Servers allow you to offer decentralized storage to other Mastodon users. <br />
 
 {% row(style="center" margin="narrow" padding="bottom") %}
 
-![EMAIL ONLY](./img/RGAsset10.png#medium)
+![EMAIL ONLY](RGAsset10.png#medium)
 
 ### EMAIL<br>LOGIN
 
@@ -113,7 +113,7 @@ Easy and conventional Mastodon server login via 'registered email address and pa
 
 |||
 
-![TFCONNECT](./img/RGAsset11.png#medium)
+![TFCONNECT](RGAsset11.png#medium)
 
 ### **TF CONNECT APP<br>AUTHENTICATOR**
 
@@ -121,7 +121,7 @@ An option for an extra layer of security by adding the decentralized TF Connect 
 
 |||
 
-![EXPERIENCE](./img/RGAsset12.png#medium)
+![EXPERIENCE](RGAsset12.png#medium)
 
 ### **USER<br>VERIFICATION**
 
@@ -148,7 +148,7 @@ Premium users can add the ultimate level of security with the option of adding K
 
 Stay up to date with ThreeFold's latest news by following ThreeFold’s Official Mastodon channel.
 
-<button>[VIEW FEED](/THREEFOLDFEED)</button>
+<button>[VIEW FEED](/threefoldfeed)</button>
 
 <br>
 <br>
@@ -167,7 +167,7 @@ full support in hosting and offering storage.
 <br>
 Own or co-own a server now!
 
-<button>[GET SERVER](www.mastodon.threefold.io/getserver/)</button>
+<button>[GET SERVER](/getserver)</button>
 
 <br>
 <br>

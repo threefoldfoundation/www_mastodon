@@ -44,9 +44,9 @@ Own or co-own a Mastodon server now!
 
 <!-- section 3 -->
 
-{% row(style="center" margin="narrow" padding="top") %}
-   
-![create](./img/new.png#small)
+{% row(style="center" margin="narrow" padding="bottom") %}
+
+![EMAIL ONLY](./img/new.png#medium)
 
 ### ADD<br>CREDENTIALS
 
@@ -54,25 +54,25 @@ EasIly login to, or create a new Mastodon deployment account
 
 |||
 
-![add](./img/topup.png#small)
+![TFCONNECT](./img/topup.png#medium)
 
-### TOP UP<br>WALLET
+### **TOP UP<br>WALLET**
 
-Top up your deployment wallet with TFT to keep your Mastodon alive 
+Top up your deployment wallet with TFT to keep your Mastodon Server alive 
 
 |||
 
-![deploy](./img/deploy.png#small)
+![EXPERIENCE](./img/deploy.png#medium)
 
-### DEPLOY<br>INSTANCE
+### **DEPLOY<br>SERVER**
 
-Configure and deploy your own Mastodon!
+Configure the Server details, such as location, and deployment size, and deploy your own Mastodon!
 
 {% end %}
 
 <!-- section 4 -->
 
-{% row(style="center" margin="narrow" padding="bottom") %}
+{% row(style="center" margin="narrow" padding="none") %}
 <button>[GET SERVER](https://getmastodon.threefold.io/)</button>
 
 {% end %}
