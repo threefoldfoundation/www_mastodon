@@ -11,13 +11,16 @@ weight: 2
 
 {% row(style="left" margin="narrow" padding="top") %}
 
-## GET YOUR<br /> MASTODON SERVER
+<br>
+<br>
 
-**Mastodon** is an open-source self-hosted  <br />
-social networking platform <br />
-run by a network of large number of  <br />
-independently run nodes, known as instances. <br />
- <br />
+## GET YOUR<br> MASTODON <br> SERVER
+
+**Mastodon** is an open-source self-hosted  <br>
+social networking platform <br>
+run by a network of large number of  <br>
+independently run nodes, known as instances. <br>
+ <br>
 ThreeFold has made it possible for everyone to run their own Mastodon Instance, simply and effectively.
 Own or co-own a Mastodon server now!
 
@@ -39,7 +42,7 @@ Own or co-own a Mastodon server now!
 
 {% row(style="center" margin="narrow" padding="top") %}
 
-## EASY <BR> DEPLOYMENT
+# EASY <BR> DEPLOYMENT
 {% end %}
 
 <!-- section 3 -->
@@ -67,7 +70,6 @@ Top up your deployment wallet with TFT to keep your Mastodon Server alive
 ### **DEPLOY<br>SERVER**
 
 Configure the Server details, such as location, and deployment size, and deploy your own Mastodon!
-
 {% end %}
 
 <!-- section 4 -->
