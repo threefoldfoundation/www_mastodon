@@ -11,19 +11,19 @@ weight: 1
 
 {% row(style="center" margin="narrow" padding="top") %}
 
-<br />
-<br />
+<br>
+<br>
 <br>
 
 ![mastodonserver](mastodonserver.png)
 
-<br />
+<br>
 
-# TRULY DECENTRALIZED <br>MASTODON SERVERS
+## TRULY DECENTRALIZED <br>MASTODON SERVERS
 
 <br>
 
-Deploy and fully control your own Mastodon server on the <br />world’s largest decentralized network.
+Deploy and fully control your own Mastodon server  <br>on the world’s largest decentralized network.
 
 <br>
 
@@ -37,15 +37,14 @@ Deploy and fully control your own Mastodon server on the <br />world’s largest
 
 {% row(style="center" margin="narrow" padding="top") %}
 
-## YOUR OWN <br /> 
-## DECENTRALIZED SERVER <br /> 
+# YOUR OWN <br>DECENTRALIZED SERVER <br> 
 
 No need to rely on a third party’s server,<br>
 when you can own and manage your own <br>
 private and secure Mastodon server<br>
 hosted by ThreeFold.
-<br />
-<br />
+<br>
+<br>
 **Own or co-own a Mastodon server now!**
 
 <button>[GET SERVER](/getserver)</button>
@@ -57,24 +56,19 @@ hosted by ThreeFold.
 ![Image](RGAsset20.png)
 
 {% end %}
-
 <!-- section 3 -->
 
-
-<br>
 {% row(style="center" margin="narrow" padding="top") %}
 
 ![Image](RGAsset111.png)
 
 |||
 
-## POWERED BY THREEFOLD’S <br /> P2P INFRASTRUCTURE
+# POWERED BY THREEFOLD’S <br> P2P INFRASTRUCTURE<br>
 
-Our fully decentralized network offers an unparalleled level of security, privacy and scalability to all Mastodon servers.
+Our fully decentralized network <br>offers an unparalleled level of security, privacy and scalability to all Mastodon servers.
 
 <button>[KNOW MORE](https://library.threefold.me/info/threefold#/tfgrid/threefold__grid_home)</button>
-
-<br>
 
 {% end %}
 
@@ -84,13 +78,11 @@ Our fully decentralized network offers an unparalleled level of security, privac
 
 ![rewards](reward.png)
 
-## EARN <br>REWARDS
+# EARN <br>REWARDS
 
-Servers allow you to offer decentralized storage to other Mastodon users. <br />Get your server and start earning ThreeFold Tokens!
+Servers allow you to offer decentralized storage to other Mastodon users. <br>Get your server and start earning ThreeFold Tokens!
 
 <button>[KNOW MORE](/getserver)</button>
-
-<br>
 
 {% end %}
 
@@ -98,7 +90,7 @@ Servers allow you to offer decentralized storage to other Mastodon users. <br />
 
 {% row(style="center" margin="narrow" padding="top") %}
 
-## SAFER LOGIN <BR> OPTIONS
+# SAFER LOGIN <BR> OPTIONS
 {% end %}
 
 <!-- section 3 -->
@@ -144,14 +136,11 @@ Premium users can add the ultimate level of security with the option of adding K
 
 |||
 
-## THREEFOLD'S <br /> FEED
+# THREEFOLD'S <br> FEED
 
 Stay up to date with ThreeFold's latest news by following ThreeFold’s Official Mastodon channel.
 
 <button>[VIEW FEED](/threefoldfeed)</button>
-
-<br>
-<br>
 
 {% end %}
 
@@ -159,7 +148,7 @@ Stay up to date with ThreeFold's latest news by following ThreeFold’s Official
 
 {% row(style="center" margin="narrow" padding="top") %}
 
-## GET YOUR FREE<br />MASTODON SERVER
+# GET YOUR FREE<br>MASTODON SERVER
 
 The ﬁrst to reserve ThreeFold’s <br>
 Mastodon servers will receive <br>
