@@ -38,4 +38,14 @@
   <!-- CSS/SCSS -->
   <link rel="stylesheet" href="{{ get_url(path="css/index.css", trailing_slash=false, cachebust=true) | safe }}" />  <style>@-moz-document url-prefix() {.lazy:-moz-loading {visibility:hidden;}}.ieOnly {display: none;}@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {.ieOnly {display: block;}}</style>
   
+  <script>
+    const define = customElements.define.bind(customElements);
+    customElements.define = (...args) => {
+      try {
+        define(...args);
+      } catch (e) { /* SKIP: Registered Before */ }
+    }
+  </script>
+  <script src="{{ get_url(path="mastodon-weblet/weblet/config.js" , trailing_slash=false, cachebust=true) | safe }}"></script>
+  <script defer type="module" src="{{ get_url(path="mastodon-weblet/weblet/mastodon.js" , trailing_slash=false, cachebust=true) | safe }}"></script>
 </head>
