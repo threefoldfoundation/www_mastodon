@@ -25,6 +25,6 @@ run*
 install*
 public
 static/css
-tailwindcss
+tailwindcss*
 .github
 config.toml
