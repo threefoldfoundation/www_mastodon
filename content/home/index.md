@@ -9,11 +9,15 @@ weight: 1
 
 <!-- section 1 (header) -->
 
-{% row(style="center" margin="narrow" padding="top") %}
+<br>
 
 <br>
+
 <br>
-<br>
+
+{% row(style="center" margin="narrow" padding="top") %}
+
+
 
 ![mastodonserver](mastodonserver.png)
 

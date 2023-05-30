@@ -94,7 +94,7 @@ img[src*="#fig"] {
     @apply font-medium;
   }
   h2 {
-    @apply text-2xl md:text-4xl lg:text-5xl xl:text-7xl font-bold leading-none my-4;
+    @apply text-2xl md:text-4xl lg:text-5xl font-bold leading-none my-4;
     font-family: "lato", sans-serif;
     line-height: 0.9;
     
@@ -143,6 +143,10 @@ img[src*="#fig"] {
   }
 }
 
+.logo{
+  width: 40%;
+}
+
 button:hover  {
   color: #984210;
 }
@@ -173,29 +177,30 @@ font-weight: 500;
     white-space: normal;
 }
 
-header .freeflow {
-    background-color: transparent;
-    position: absolute;
+header .customize {
+  background-color: transparent;
+  position: absolute;
 }
 
-footer .freeflow {
-    width: 100vw;
+footer .customize {
+    /* width: 100vw; */
     background-color: #FFFFFF;
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 
-footer .freeflow img {
-    width: 60px;
+footer .customize img {
+  width: 60px;
 }
 
 
-header .freeflow div {
-    box-shadow: none;
-    text-transform: uppercase;
-    font-weight: 700 !important;
+header .customize div {
+  box-shadow: none;
+  text-transform: uppercase;
+  font-weight: 700 !important;
 }
 
 button {
@@ -204,7 +209,6 @@ button {
   border-radius: 10px;
   border: 2px solid black;
   box-shadow: none;
-  font-size: 20px;
 }
 
 a {
@@ -356,9 +360,9 @@ header {
   transform: none;
 }
 @media (max-width: 768px) {
-  h2 {
+  /* h2 {
     font-size: 4rem;
-  }
+  } */
 }
 @media (max-width: 640px) {
   .banner h2 {
@@ -380,7 +384,11 @@ header {
     padding: 80px 0;
   }
 
-  h2 {
+  .logo{
+    width: 70% !important;
+}
+
+  /* h2 {
     font-size: 3rem;
-  }
+  } */
 }

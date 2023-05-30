@@ -41,7 +41,7 @@ Parameters:
 {% if 2 < columns | length %}
     {% set row_class = row_class ~ " lg:items-start" %}
 {% else %} 
-    {% set row_class = row_class ~ " lg:items-center" %}
+    {% set row_class = row_class ~ " items-center" %}
 {% endif %}
 
 {% set col_class = "flex-1 mb-4 md:mb-12 lg:mb-0 lg:mx-2 xl:mx-4" %}
@@ -56,15 +56,19 @@ Parameters:
 
 <!-- Padding -->
 
-{% set padding_class = " py-8 md:py-8 lg:py-28" %}
+{% set padding_class = " py-8 md:py-8 lg:py-24" %}
 
 {% if padding %}
     {% if "none" in padding %}
         {% set padding_class = " py-0" %}
     {% elif "top" in padding %}
-        {% set padding_class = " py-2 md:py-4 lg:pt-28" %}
+        {% set padding_class = " py-2 md:py-4 lg:pt-24" %}
     {% elif "bottom" in padding %}
-        {% set padding_class = " py-2 md:py-4 lg:pb-28" %}
+        {% set padding_class = " py-2 md:py-4 lg:pb-24" %}
+    {% elif "both" in padding %}
+        {% set padding_class = " py-10 md:py-4 lg:py-24" %}
+    {% elif "headerboth" in padding %}
+        {% set padding_class = " py-24 md:py-4 lg:py-24" %}
     {% endif %}
 {% endif %}
 
@@ -87,11 +91,13 @@ Parameters:
     {% elif "moderate" in margin %}
         {% set margin_class = " mx-8 sm:mx-16 md:mx-20 lg:mx-28" %}
     {% elif "narrow" in margin %}
-        {% set margin_class = " mx-12 sm:mx-20 md:mx-28 lg:mx-40" %}
+        {% set margin_class = " mx-6 sm:mx-20 md:mx-28 lg:mx-40" %}
     {% elif "tight" in margin %}
-        {% set margin_class = " mx-20 sm:mx-32 md:mx-40 lg:mx-80 xl:mx-96" %}
+        {% set margin_class = " mx-6 sm:mx-32 md:mx-40 lg:mx-80" %}
     {% elif "header" in margin %}
-        {% set margin_class = " mx-12 sm:mx-20 md:mx-28 lg:mx-40 my-10" %}
+        {% set margin_class = " mx-6 sm:mx-20 md:mx-28 lg:mx-40 mt-10 lg:mt-0" %}
+    {% elif "withContainer" in margin %}
+        {% set margin_class = " mx-8 " %}
     {% endif %}
     {% if "lean-left" in margin %}
         {% set margin = margin_class | replace(from=" ", to=" first:")%}
@@ -117,7 +123,7 @@ Parameters:
 {% if style %}
 
     {% if "center" in style %}
-        {% set row_class = row_class ~ " text-center items-center mx-auto " %}
+        {% set row_class = row_class ~ " text-center items-center " %}
         {% set col_class = col_class ~ " flex-1 " %}
     {% endif %}
 
@@ -125,6 +131,13 @@ Parameters:
     {% set row_class = row_class ~ " lg:items-end" %}
     {% set col_class = col_class ~ " flex-1 " %}
     {% endif %}
+
+    <!-- reverse col at mobile -->
+
+    {% if "reverse" in style %}
+    {% set row_class = "flex flex-col-reverse md:flex-row items-center mx-8" %}
+    {% endif %}
+
 
      <!-- makes row semi-full screen width, strips margins -->
     {% if "between" in style %}

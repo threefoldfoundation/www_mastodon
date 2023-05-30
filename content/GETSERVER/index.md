@@ -9,12 +9,12 @@ weight: 2
 
 <!-- section 1 -->
 
-{% row(style="left" margin="narrow" padding="top") %}
+{% row(style="left" margin="narrow" padding="both") %}
 
 <br>
 <br>
 
-## GET YOUR<br> MASTODON <br> SERVER
+## GET YOUR<br> MASTODON SERVER
 
 **Mastodon** is an open-source self-hosted  <br>
 social networking platform <br>
@@ -26,15 +26,9 @@ Own or co-own a Mastodon server now!
 
 <button>[GET SERVER](https://getmastodon.threefold.io/)</button>
 
-<br>
-<br>
-
 |||
 
 ![Image](./img/GETserver.png)
-
-<br>
-<br>
 
 {% end %}
 
@@ -43,11 +37,12 @@ Own or co-own a Mastodon server now!
 {% row(style="center" margin="narrow" padding="top") %}
 
 # EASY <BR> DEPLOYMENT
+
 {% end %}
 
 <!-- section 3 -->
 
-{% row(style="center" margin="narrow" padding="bottom") %}
+{% row(style="center" margin="narrow" padding="none") %}
 
 ![EMAIL ONLY](./img/new.png#medium)
 
@@ -74,7 +69,12 @@ Configure the Server details, such as location, and deployment size, and deploy 
 
 <!-- section 4 -->
 
-{% row(style="center" margin="narrow" padding="none") %}
+<br>
+
+<br>
+
+{% row(style="center" margin="narrow" padding="bottom") %}
+
 <button>[GET SERVER](https://getmastodon.threefold.io/)</button>
 
 {% end %}
