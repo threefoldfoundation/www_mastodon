@@ -15,6 +15,8 @@ weight: 1
 
 <br>
 
+<div class="container mx-auto">
+
 {% row(style="center" margin="narrow" padding="top") %}
 
 
@@ -72,7 +74,7 @@ hosted by ThreeFold.
 
 Our fully decentralized network <br>offers an unparalleled level of security, privacy and scalability to all Mastodon servers.
 
-<button>[KNOW MORE](https://library.threefold.me/info/threefold#/tfgrid/threefold__grid_home)</button>
+<a href="https://www.manual.grid.tf/tf_mastodon/tf_mastodon_readme.html" target="_blank"><button>KNOW MORE</button></a>
 
 {% end %}
 
@@ -128,7 +130,8 @@ Premium users can add the ultimate level of security with the option of adding K
 <!-- section 4 -->
 
 {% row(style="center" margin="narrow" padding="none") %}
-<button>[GET SERVER](https://getmastodon.threefold.io/)</button>
+
+<a href="https://www.manual.grid.tf/tf_mastodon/tf_mastodon_deploy.html" target="_blank"><button>GET SERVER</button></a>
 
 {% end %}
 
@@ -170,3 +173,5 @@ Own or co-own a server now!
 ![Image](server.png)
 
 {% end %}
+
+</div>

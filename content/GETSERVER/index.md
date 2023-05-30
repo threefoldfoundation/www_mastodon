@@ -7,6 +7,9 @@ draft: false
 weight: 2
 ---
 
+
+<div class="container mx-auto">
+
 <!-- section 1 -->
 
 {% row(style="left" margin="narrow" padding="both") %}
@@ -78,3 +81,5 @@ Configure the Server details, such as location, and deployment size, and deploy 
 <button>[GET SERVER](https://getmastodon.threefold.io/)</button>
 
 {% end %}
+
+</div>

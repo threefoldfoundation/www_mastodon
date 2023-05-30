@@ -7,6 +7,9 @@ draft: false
 weight: 1
 ---
 
+
+<div class="container mx-auto">
+
 <!-- section 3 -->
 
 {% row(style="center" margin="narrow" padding="top") %}
@@ -20,9 +23,9 @@ weight: 1
 Stay up to date with ThreeFold's latest news<br> by following
 ThreeFold’s Official Mastodon channel.
 
-<button>[COMING SOON](/)</button>
+<a href="https://www.grid.tf/tf_mastodon/tf_mastodon_readme.html" target="_blank"><button>COMING SOON</button></a>
 
 {% end %}
 
-
+</div>
 
