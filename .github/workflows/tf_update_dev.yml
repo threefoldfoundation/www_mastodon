@@ -1,0 +1,24 @@
+name: www2.mastodon.threefold.io
+on:
+  push:
+    branches: [ development ]
+
+jobs:
+  job_one:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+    - name: pushing latest change on www2.mastodon.threefold.io
+      uses: appleboy/ssh-action@master
+      with:
+        host: www2.mastodon.threefold.io
+        username: webuser
+        key: ${{ secrets.TF_SECRET }}
+        port: 34022
+        script: |
+          cd websites/www2/www_mastodon/
+          git log -1
+          git restore .
+          git pull
+          sed -i "s/https:\/\/www.mastodon.threefold.io/https:\/\/www2.mastodon.threefold.io/g" config.toml
+          ./build.sh
