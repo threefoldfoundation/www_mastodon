@@ -6,7 +6,9 @@
 
 The official website of Mastodon Powered by ThreeFold
 
-[www.mastodon.threefold.io](www.mastodon.threefold.io)
+production (master branch) [www.mastodon.threefold.io](www.mastodon.threefold.io)
+
+staging (development branch) [www2.mastodon.threefold.io](www2.mastodon.threefold.io)
 
 ## Contribution
 
